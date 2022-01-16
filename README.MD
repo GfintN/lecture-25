@@ -7,7 +7,7 @@
 
 <h2>All servlets</h2>
 <li> .../hello (show Hello Spring MVC)
-<li> .../index.jsp (show Hello)
+<li> .../ (show Hello)
 <li> .../uploadOneFile(gives you upload one file)
 <li> .../uploadMultiFile(gives you upload many file)
 <li> .../loadOneFile/{file_name}(gives you load file from upload)
